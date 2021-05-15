@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "Ciclo 1"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Archivo actual",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal"
+			}
+		]
+	},
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
